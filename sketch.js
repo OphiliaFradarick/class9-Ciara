@@ -10,7 +10,7 @@ function setup(){
 
   //Creating a sprite
   box = createSprite(300, 196, 20, 20);
-  box.shapeColor = "maroon";
+  box.shapeColor = "green";
 
 }
 
